@@ -1,6 +1,20 @@
 # Assignment
 
-This application was generated using JHipster 6.10.5, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.10.5](https://www.jhipster.tech/documentation-archive/v6.10.5).
+For the set up, go through below instructions here. Rest of the sections can be ignored
+
+1. Isntall JDK 11 (JAVA_HOME, PATH env variables have to be updated )
+2. Install Node (latest)
+3. Download the application
+4. Go to Assignement folder and execute below command to start web application.
+     $ mvnw
+    It will start back end application
+5. Go to Assignment/src/main/webapp and execute below command. It will start UI application
+     $ npm start
+     
+6. Go to browser and provide http://localhost:9000/ 
+     
+
+
 
 ## Development
 
