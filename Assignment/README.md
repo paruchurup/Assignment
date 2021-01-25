@@ -4,7 +4,7 @@ For the set up, go through below instructions here. Rest of the sections can be 
 
 1. Isntall JDK 11 (JAVA_HOME, PATH env variables have to be updated )
 2. Install Node (latest)
-3. Download the application
+3. Download this application from github.
 4. Go to Assignement folder and execute below command to start web application.
      $ mvnw
     It will start back end application
