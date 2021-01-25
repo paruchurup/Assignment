@@ -13,8 +13,9 @@ For the set up, go through below instructions here. Rest of the sections can be 
      
 6. Go to browser and provide http://localhost:9000/ 
      
-
-
+Troubleshoot
+1. If any issue with node module rimraf seen in logs. Please install that by executing the below command
+npm install rimraf
 
 ## Development
 
